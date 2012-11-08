@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\bin\Debug\AnimeVideoTester.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\bin\Debug\AnimeVideoTester.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\obj\x86\Debug\AnimeVideoTester.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\obj\x86\Debug\AnimeVideoTester.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\bin\Debug\Anilabel.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Anilabel\AnimeVideoTester\bin\Debug\Anilabel.pdb
