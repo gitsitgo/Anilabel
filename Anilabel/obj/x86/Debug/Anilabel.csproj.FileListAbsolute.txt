@@ -1,9 +1,0 @@
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\bin\Debug\Anilabel.exe
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\bin\Debug\Anilabel.pdb
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\Anilabel.Anilabel.resources
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\Anilabel.Properties.Resources.resources
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\GenerateResource.read.1.tlog
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\GenerateResource.write.1.tlog
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\Anilabel.exe
-c:\users\alex\documents\visual studio 2010\Projects\Anilabel\Anilabel\obj\x86\Debug\Anilabel.pdb
