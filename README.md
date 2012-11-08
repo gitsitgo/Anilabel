@@ -9,7 +9,7 @@ Context
 
 This project was born out of the frustration of organizing anime files of various sources, subbers, and quality. Usually, subbing groups are pretty consistent, but even so they have done their best to get your attention by placing \[PROUD SUBBER GROUP\] at the beginning of every file. What's worst is that some files are named inconsistently with spaces being replaced with underscores, double spaces here and there, different tag types, etc... It makes for a hard time when you just simply wanted to order the videos in your explorer to pick the next video to watch.
 
-![Anilabel](https://github.com/gitsitgo/Anilabel/master/README/anilabel.jpg "Anilabel Interface")
+![Anilabel](https://raw.github.com/gitsitgo/Anilabel/master/README/anilabel.jpg "Anilabel Interface")
 
 Features
 --------
